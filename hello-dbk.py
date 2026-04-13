@@ -1,1 +1,3 @@
-print("Hello world")
+# Databricks notebook source
+# COMMAND ----------
+print("Hello, World!")
